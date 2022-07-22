@@ -1,0 +1,24 @@
+h1 {
+    color: darkred ;
+  }
+  
+  #spanId {
+      font-size: 18px; 
+      margin: 50px;}
+ 
+  #thirdDiv { 
+    background:chocolate ; 
+    height: 600px;  
+    width: 500px; 
+    border-top: thick black;
+    border-top-style: double ;
+    border-left: thick black;
+    border-left-style: double;
+    border-right: thick black;
+    border-right-style: double;
+    border-bottom: thick black;
+    border-bottom-style: double;
+    padding: 50px;
+   }
+
+   img{width: 400px;}
