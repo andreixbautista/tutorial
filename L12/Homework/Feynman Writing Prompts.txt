@@ -1,0 +1,9 @@
+DOM
+    -The "Document Object Model" is used to add/remove/change content in HTML documents
+
+DOM element selectors
+    -Used to select elements from the HTML document
+
+DOM events
+    -function that fires when an event occurs. Events
+    can be anything from a click to a mouse entering the content area, to an image download finishing.
